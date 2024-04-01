@@ -557,7 +557,7 @@
     filter: grayscale(1) brightness(1000%);
   }
   body.dark-mode #cs-navigation .cs-toggle {
-    background-color: var(--secondary);
+    background-color: #7d00eb;
   }
   body.dark-mode #cs-navigation .cs-phone {
     color: var(--bodyTextColorWhite);
